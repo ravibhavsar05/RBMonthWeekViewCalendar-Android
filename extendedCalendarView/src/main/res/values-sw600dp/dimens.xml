@@ -1,0 +1,32 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="padding5">5dp</dimen>
+    <dimen name="padding10">10dp</dimen>
+    <dimen name="padding15">15dp</dimen>
+    <dimen name="padding20">20dp</dimen>
+    <dimen name="padding25">25dp</dimen>
+    <dimen name="textSize24px">32px</dimen>
+    <dimen name="textSize30px">30px</dimen>
+    <dimen name="textSize18px">26px</dimen>
+    <dimen name="textSize20px">20px</dimen>
+    // Home Activity Dimens
+    <dimen name="home_logo_padding_top">30dp</dimen>
+    <dimen name="home_button_padding_lft_rgt">10dp</dimen>
+    <dimen name="home_button_padding_bottom">40dp</dimen>
+    // navigation panel
+    <dimen name="nav_right_clear_all_button_h">40dp</dimen>
+    // row_units
+    <dimen name="row_book_now_btn_h">25dp</dimen>
+    //row_taxcalculation
+    <dimen name="row_tax_width">100dp</dimen>
+    //Facility Detail book now button
+    <dimen name="book_now_button">90dp</dimen>
+    <dimen name="tab_width">190dp</dimen>
+
+    <!--Screen support resolution-->
+    <!--Samsung tab s :1600 x 2560 pixels -->
+    <dimen name="s_common_a">21dp</dimen>
+     <dimen name="s_day_name_padding_l">35dp</dimen>
+</resources>

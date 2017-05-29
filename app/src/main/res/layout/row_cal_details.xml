@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              android:padding="5dp">
+
+    <TextView
+        android:id="@+id/row_cal_detail_type"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ashish"
+        android:textAppearance="?android:textAppearanceSmall"/>
+
+    <TextView
+        android:id="@+id/row_cal_detail_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ashish"
+        android:textAppearance="?android:textAppearanceSmall"/>
+
+    <TextView
+        android:id="@+id/row_cal_detail_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ashish"
+        android:textAppearance="?android:textAppearanceSmall"/>
+
+    <TextView
+        android:id="@+id/row_cal_detail_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ashish"
+        android:textAppearance="?android:textAppearanceSmall"/>
+
+</LinearLayout>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#FFFFFF"
+              android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/extended_month_arrow_relative"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#3F51B5">
+
+        <ImageView
+            android:id="@+id/extended_prev_arrow"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/extended_prev_arrow"/>
+
+        <TextView
+            android:id="@+id/extended_month"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="Month"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#FFFFFF"/>
+
+        <ImageView
+            android:id="@+id/extended_next_arrow"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/extended_next_arrow"/>
+    </RelativeLayout>
+
+    <GridView
+        android:id="@+id/extended_day_name_grid_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#3F51B5"
+        android:horizontalSpacing="5dp"
+        android:numColumns="7">
+    </GridView>
+
+    <GridView
+        android:id="@+id/extended_day_grid_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        android:numColumns="7">
+    </GridView>
+
+</LinearLayout>

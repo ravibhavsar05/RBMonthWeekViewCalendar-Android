@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Month always -->
+    <item
+        android:id="@+id/action_month_view"
+        android:showAsAction="ifRoom"
+        android:title="Month View"/>
+
+    <!-- Week Found -->
+    <item
+        android:id="@+id/action_week_view"
+        android:showAsAction="ifRoom"
+        android:title="Week View"/>
+
+
+</menu>

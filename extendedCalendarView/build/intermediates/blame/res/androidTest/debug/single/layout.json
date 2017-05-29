@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\RBMonthWeekViewCalendar\\extendedCalendarView\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\extended_textview.xml",
+        "source": "C:\\RBMonthWeekViewCalendar\\extendedCalendarView\\build\\intermediates\\bundles\\debug\\res\\layout\\extended_textview.xml"
+    },
+    {
+        "merged": "C:\\RBMonthWeekViewCalendar\\extendedCalendarView\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\calendar_layout.xml",
+        "source": "C:\\RBMonthWeekViewCalendar\\extendedCalendarView\\build\\intermediates\\bundles\\debug\\res\\layout\\calendar_layout.xml"
+    },
+    {
+        "merged": "C:\\RBMonthWeekViewCalendar\\extendedCalendarView\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\day_view.xml",
+        "source": "C:\\RBMonthWeekViewCalendar\\extendedCalendarView\\build\\intermediates\\bundles\\debug\\res\\layout\\day_view.xml"
+    },
+    {
+        "merged": "C:\\RBMonthWeekViewCalendar\\extendedCalendarView\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\modified_day_view.xml",
+        "source": "C:\\RBMonthWeekViewCalendar\\extendedCalendarView\\build\\intermediates\\bundles\\debug\\res\\layout\\modified_day_view.xml"
+    },
+    {
+        "merged": "C:\\RBMonthWeekViewCalendar\\extendedCalendarView\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\extendedcalender_view_main_layout.xml",
+        "source": "C:\\RBMonthWeekViewCalendar\\extendedCalendarView\\build\\intermediates\\bundles\\debug\\res\\layout\\extendedcalender_view_main_layout.xml"
+    }
+]

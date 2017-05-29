@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\RBMonthWeekViewCalendar\extendedCalendarView\src\main\assets"><file name="fonts/arcade.ttf" path="C:\RBMonthWeekViewCalendar\extendedCalendarView\src\main\assets\fonts\arcade.ttf"/></source><source path="C:\RBMonthWeekViewCalendar\extendedCalendarView\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="C:\RBMonthWeekViewCalendar\extendedCalendarView\src\release\assets"/></dataSet></merger>

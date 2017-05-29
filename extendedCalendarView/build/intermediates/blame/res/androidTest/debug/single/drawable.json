@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\RBMonthWeekViewCalendar\\extendedCalendarView\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\day_selected.xml",
+        "source": "C:\\RBMonthWeekViewCalendar\\extendedCalendarView\\build\\intermediates\\bundles\\debug\\res\\drawable\\day_selected.xml"
+    },
+    {
+        "merged": "C:\\RBMonthWeekViewCalendar\\extendedCalendarView\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\normal_day.xml",
+        "source": "C:\\RBMonthWeekViewCalendar\\extendedCalendarView\\build\\intermediates\\bundles\\debug\\res\\drawable\\normal_day.xml"
+    },
+    {
+        "merged": "C:\\RBMonthWeekViewCalendar\\extendedCalendarView\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\extended_prev_arrow.png",
+        "source": "C:\\RBMonthWeekViewCalendar\\extendedCalendarView\\build\\intermediates\\bundles\\debug\\res\\drawable\\extended_prev_arrow.png"
+    },
+    {
+        "merged": "C:\\RBMonthWeekViewCalendar\\extendedCalendarView\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\extended_next_arrow.png",
+        "source": "C:\\RBMonthWeekViewCalendar\\extendedCalendarView\\build\\intermediates\\bundles\\debug\\res\\drawable\\extended_next_arrow.png"
+    },
+    {
+        "merged": "C:\\RBMonthWeekViewCalendar\\extendedCalendarView\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\date_number_background.xml",
+        "source": "C:\\RBMonthWeekViewCalendar\\extendedCalendarView\\build\\intermediates\\bundles\\debug\\res\\drawable\\date_number_background.xml"
+    },
+    {
+        "merged": "C:\\RBMonthWeekViewCalendar\\extendedCalendarView\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\today.xml",
+        "source": "C:\\RBMonthWeekViewCalendar\\extendedCalendarView\\build\\intermediates\\bundles\\debug\\res\\drawable\\today.xml"
+    }
+]

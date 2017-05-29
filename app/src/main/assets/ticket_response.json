@@ -1,0 +1,50 @@
+{
+  "Tickets": [
+    {
+      "id": "1",
+      "title": "Go to Home",
+      "type": "Task",
+      "date": "2017-05-01"
+    },
+    {
+      "id": "2",
+      "title": "Playing Cricket",
+      "type": "Event",
+      "date": "2017-05-02"
+    },
+    {
+      "id": "3",
+      "title": "Android Development",
+      "type": "Event",
+      "date": "2017-05-03"
+    },
+    {
+      "id": "4",
+      "title": "iPhone Development",
+      "type": "Event",
+      "date": "2017-05-04"
+    },
+    {
+      "id": "5",
+      "title": "Web Development",
+      "type": "Task",
+      "date": "2017-05-05"
+    },
+    {
+      "id": "6",
+      "title": "Designing",
+      "type": "Event",
+      "date": "2017-05-05"
+    },{
+      "id": "7",
+      "title": "Dancing",
+      "type": "Event",
+      "date": "2017-05-17"
+    },{
+      "id": "8",
+      "title": "Watching",
+      "type": "Event",
+      "date": "2017-05-17"
+    }
+  ]
+}
